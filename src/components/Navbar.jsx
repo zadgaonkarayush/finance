@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaSearch, FaFilter, FaCopy } from 'react-icons/fa';
-import Icon from '../assets/icon.png';
+import Icon from '../assets/Icon.png';
 
 const Navbar = () => {
   return (
