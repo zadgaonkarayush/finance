@@ -25,23 +25,6 @@ function Sidebar() {
                 </div>
 
 
-                {/* <div className=" top-12 right-3 relative  p-8 border-b border-gray-900 w-20 pb-4">
-                    <div className="flex items-center space-x-2">
-                        <FaHome className="w-6 h-5 mb-6" />
-                    </div>
-                    <div className="flex items-center space-x-2 pt-5">
-                        <FaDashcube className="w-5 h-5 mb-6" />
-                    </div>
-                    <div className="flex items-center space-x-2 pt-5">
-                        <FaUser className="w-5 h-5 mb-6" />
-                    </div>
-                    <div className="flex items-center space-x-2 pt-5">
-                        <FaCog className="w-5 h-5 mb-6" />
-                    </div>
-                    <div className="flex items-center space-x-2 pt-5">
-                        <FaShareAlt className="w-5 h-5 mb-6" />
-                    </div>
-                </div> */}
                  <div className="flex items-center space-x-2 ml-5 lgx:ml-[32px] mt-24">
                         <FaHome className="w-6 h-5 mb-6" />
                     </div>
@@ -71,15 +54,6 @@ function Sidebar() {
                     </div>
                 </div>
 
-                {/* Detail and Headphone Section */}
-                {/* <div className="mt-4  p-8 bg-gray-950  space-y-2 w-24 relative right-7 h-auto flex-initial ">
-                    <div className="flex items-center space-x-2 pb-4 ml-2">
-                        <FaHeadphones className="w-5 h-5" />
-                    </div>
-                    <div className="flex items-center space-x-2 pt-4 ml-2">
-                        <FaInfoCircle className="w-5 h-5" />
-                    </div>
-                </div> */}
                  <div className="flex items-center space-x-2 pb-4 ml-5 lgx:ml-[28px] mt-16">
                         <FaHeadphones className="w-5 h-5" />
                     </div>
